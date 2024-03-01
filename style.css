@@ -28,8 +28,9 @@
                 /*background-blend-mode: multiply;*/ /* mode de fusion avec la couleur de fond */
             }
             footer {
-              height: 40vh;
+              height: 20vh;
               width: 100vw;
+              display:inline-block;
               padding: 0px;
               margin: -70vh;
               margin-top: 10vh;

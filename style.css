@@ -251,3 +251,6 @@ ul {
   position: sticky;
   top: 0;
 }
+@media(max-width:440px;){
+      width:250px
+}

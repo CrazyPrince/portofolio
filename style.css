@@ -251,7 +251,7 @@ ul {
   position: sticky;
   top: 0;
 }
-@media(max-width:440px;){
+@media(min-width:438px;){
       .buttons{
              width:250px
       }

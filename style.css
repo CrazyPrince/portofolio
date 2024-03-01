@@ -70,7 +70,7 @@
             }
     
             .buttons div {
-                margin-top : 0vh;
+               /* margin-top : 0vh;
                 margin-left: 4vw;
                 margin-inline-end: 10vw 10vh;
                 position: center;
@@ -78,7 +78,11 @@
                 position: absolute;
                 max-width: 800px;
                 
-                gap: 10px;
+                gap: 10px;*/
+              margin-top : 15vh;
+              max-width: 800px;
+              display: inline-flex;
+              gap: 10px;
                 
             }
     
@@ -87,7 +91,7 @@
                 border-color: blue;
                 background-color: black;
                 padding: 11px 11px;*/
-                    border-radius: 10px;
+              border-radius: 10px;
               border-color: 10px solid blue;
               border: 2px solid blue;
               background-color: black;
@@ -256,10 +260,10 @@ ul {
   position: sticky;
   top: 0;
 }
-@media(min-width:438px;){
+/*@media(min-width:438px;){
       .buttons{
              width:250p;
             display: inline-block;
       }
      
-}
+}*/

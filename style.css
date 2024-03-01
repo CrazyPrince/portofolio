@@ -28,6 +28,7 @@
                 /*background-blend-mode: multiply;*/ /* mode de fusion avec la couleur de fond */
             }
             footer {
+              overflow:hidden;
               height: 20vh;
               width: 100vw;
               display:inline-block;

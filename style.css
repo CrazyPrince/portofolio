@@ -253,7 +253,8 @@ ul {
 }
 @media(min-width:438px;){
       .buttons{
-             width:250px
+             width:250p;
+            display: inline-block;
       }
      
 }

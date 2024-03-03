@@ -104,13 +104,14 @@
               border: 2px solid blue;
               background-color: black;
               padding: 10px 10px;
+              opacity: 0.8;
             }
     
             .buttons a {
                 text-decoration: none;
                 color:aliceblue ;
                 font-family: 'Orbitron', sans-serif;
-                opacity: 0.8;
+                
             }
             .buttons1 {
               margin-top : 15vh;
@@ -124,6 +125,7 @@
               text-decoration: none;
               color:aliceblue ;
               font-family: 'Orbitron', sans-serif;
+              opacity: 0.8;
             }
             .buttons1 buttons {
               border-radius: 10px;
